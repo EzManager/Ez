@@ -1,4 +1,5 @@
 # Ez
+![Failed to load](https://github.com/EzManager/Ez/blob/main/Document/EzManager.png)
 A package contains all Ez modules
 
 ## Download
