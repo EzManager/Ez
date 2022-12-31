@@ -1,5 +1,5 @@
 # Ez
-![Failed to load](https://github.com/EzManager/Ez/blob/main/Document/EzManager.png)
+<p align="center"><img src="https://github.com/EzManager/Ez/blob/main/Document/EzManager.png?raw=true" height="200px" /> </p>
 A package contains all Ez modules
 
 ## Download
